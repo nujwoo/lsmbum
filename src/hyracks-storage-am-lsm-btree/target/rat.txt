@@ -1,0 +1,71 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-10-07T15:50:58-04:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 45
+
+Apache Licensed: 45
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/pom.xml
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/dataflow/LSMBTreeDiskComponentScanOperatorNodePushable.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/dataflow/LSMBTreeLocalResourceFactory.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/dataflow/ExternalBTreeLocalResourceFactory.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/dataflow/ExternalBTreeWithBuddyLocalResource.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/dataflow/LSMBTreeLocalResource.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/dataflow/LSMBTreeDiskComponentScanOperatorDescriptor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/dataflow/ExternalBTreeLocalResource.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/dataflow/ExternalBTreeWithBuddyLocalResourceFactory.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/tuples/LSMBTreeTupleWriter.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/tuples/LSMBTreeCopyTupleWriter.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/tuples/LSMBTreeTupleWriterFactory.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/tuples/LSMBTreeTupleReference.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/tuples/LSMBTreeCopyTupleWriterFactory.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeWithBuddyAbstractCursor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeWithBuddySearchCursor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeWithBuddyMergeOperation.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeOpContext.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeWithBuddyDiskComponent.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeWithBuddyCursorInitialState.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/ExternalBTreeWithBuddyOpContext.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/ExternalBTreeWithBuddy.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeWithBloomFilterDiskComponent.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/ExternalBTreeOpContext.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeCursorInitialState.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeWithBuddySortedCursor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeMergeOperation.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeMemoryComponent.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeRangeSearchCursor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeWithBuddyMemoryComponent.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeDiskComponent.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTree.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeWithBuddyDiskComponentFactory.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeDiskComponentScanCursor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreePointSearchCursor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/AntimatterAwareTupleAcceptor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBuddyBTreeMergeCursor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeWithBuddyFileManager.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeFlushOperation.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeWithBloomFilterDiskComponentFactory.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeSearchCursor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeDiskComponentFactory.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/LSMBTreeFileManager.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/impls/ExternalBTree.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-lsm-btree/src/main/java/org/apache/hyracks/storage/am/lsm/btree/utils/LSMBTreeUtil.java
+ 
+*****************************************************

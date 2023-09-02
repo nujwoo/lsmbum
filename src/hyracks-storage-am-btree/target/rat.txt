@@ -1,0 +1,67 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-10-07T15:49:13-04:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 41
+
+Apache Licensed: 41
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/pom.xml
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/test/java/org/apache/hyracks/storage/am/btree/test/FramewriterTest.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/dataflow/BTreeUpdateSearchOperatorDescriptor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/dataflow/BTreeSearchOperatorNodePushable.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/dataflow/BTreeResourceFactory.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/dataflow/BTreeUpdateSearchOperatorNodePushable.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/dataflow/BTreeSearchOperatorDescriptor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/dataflow/BTreeResource.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/util/BTreeUtils.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/tuples/BTreeTypeAwareTupleReference.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/tuples/BTreeTypeAwareTupleWriter.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/tuples/BTreeTypeAwareTupleWriterFactory.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/BTreeRangeSearchCursor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/NodeFrontier.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/BTree.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/RangePredicate.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/DiskBTreePointSearchCursor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/FieldPrefixPrefixTupleReference.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/DiskBTree.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/FieldPrefixSlotManager.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/BTreeSplitKey.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/BTreeOpContext.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/BTreeCursorInitialState.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/UnconditionalTupleAcceptor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/DiskBTreeRangeSearchCursor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/BTreeFieldPrefixTupleReference.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/impls/BTreeCountingSearchCursor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/frames/BTreeNSMLeafFrame.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/frames/BTreeLeafFrameType.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/frames/BTreeNSMInteriorFrameFactory.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/frames/OrderedSlotManager.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/frames/BTreeNSMLeafFrameFactory.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/frames/BTreeNSMInteriorFrame.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/frames/BTreeFieldPrefixNSMLeafFrame.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/frames/BTreeFieldPrefixNSMLeafFrameFactory.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/compressors/FieldPrefixCompressor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/api/IBTreeFrame.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/api/IPrefixSlotManager.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/api/IBTreeInteriorFrame.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/api/ITupleAcceptor.java
+  AL    /Users/nujwoo/Documents/gitRepo/asterixdb_um/asterixdb/hyracks-fullstack/hyracks/hyracks-storage-am-btree/src/main/java/org/apache/hyracks/storage/am/btree/api/IBTreeLeafFrame.java
+ 
+*****************************************************
